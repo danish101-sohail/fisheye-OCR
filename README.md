@@ -7,8 +7,7 @@ This project separates text and visual elements from an uploaded image using OCR
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd image_analysis_project
+   git clone https://github.com/danish101-sohail/fisheye-OCR.git
 
 2. Install dependencies:
     pip install -r requirements.txt
