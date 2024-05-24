@@ -1,0 +1,22 @@
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Editor or IDE-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+__pycache__/
+node_modules/
+
+# Uploaded files or directories generated during runtime
+uploads/
+app/static/images/
+
+# Environment variables or configuration files containing sensitive information
+config.ini
+google_credentials.json
